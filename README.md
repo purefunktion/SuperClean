@@ -2,7 +2,7 @@
 A framework comprising of some basic utilities for use inside of SuperCollider.  
 
 Not only can you play back all of your samples without needless hassle in an environment that can grow with you,
-SuperClean is, in short, a one-stop-shopping-experience for folks who want:
+SuperClean is, in short, a one-stop-shop-experience for folks who want:
 
 • An MPC,  
 • a bunch of effects,  
